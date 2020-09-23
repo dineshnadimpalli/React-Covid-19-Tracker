@@ -7,6 +7,13 @@ A React based Covid-19 tracker to get information about the worldwide cases for 
 
 https://covid-19-tracker-fcaff.web.app/
 
+## Demo Images
+
+<img src='./src/assets/darkMode.png'>
+<img src='./src/assets/lightMode.png'>
+<img src='./src/assets/recovered.png'>
+<img src='./src/assets/deaths.png'>
+
 
 ## Steps to run
 
