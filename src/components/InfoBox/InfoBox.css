@@ -1,0 +1,51 @@
+.infoBox {
+    flex: 1;
+    /* background-color: #233142; */
+    cursor: pointer;
+}
+
+.infoBox:not(:last-child) {
+    margin-right: 15px;
+}
+
+.infoBox_cases {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+  
+.infoBox_total {
+    color: #6c757d;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+}
+
+.infoBox_selected {
+    border-top: 10px solid #68b0ab;
+}
+
+.infoBox_red {
+    border-color: #ff414d !important;
+}
+
+.infoBox_blue {
+    border-color: #4e89ae;
+}
+
+.infoBox_green {
+    border-color: #68b0ab;
+}
+
+.infoBox_red_title {
+    color: #ff414d;
+}
+
+.infoBox_blue_title {
+    color: #4e89ae;
+}
+
+.infoBox_green_title {
+    color: #68b0ab
+}
